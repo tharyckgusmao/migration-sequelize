@@ -1,0 +1,10 @@
+node_modules/
+lab/
+dist/
+example/
+tmp/
+.env
+.env.development
+package-lock.json
+guide.txt
+yarn-lock.json
